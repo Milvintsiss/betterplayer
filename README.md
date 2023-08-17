@@ -1,3 +1,13 @@
+This repo is a fork of [betterplayer](https://github.com/jhomlala/betterplayer) repo.
+
+Thoses are the features|fixes that have been added:
+
+* Fixes `SafeArea` cropping the background of `ModalBottomSheet`
+* Enable `barrierColor` of `ModalBottomSheet`
+* Migrates from `wakelock` to `wakelock_plus`
+
+---
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/jhomlala/betterplayer/master/media/logo.png">
 </p>
