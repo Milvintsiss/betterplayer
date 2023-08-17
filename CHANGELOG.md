@@ -1,4 +1,11 @@
+## [FORK] 0.1.0
+
+* Fixes `SafeArea` cropping the background of `ModalBottomSheet`
+* Enable `barrierColor` of `ModalBottomSheet`
+* Migrates from `wakelock` to `wakelock_plus`
+
 ## 0.0.83
+
 * Updated dependencies
 * Fixed Flutter 3.0 issues
 
